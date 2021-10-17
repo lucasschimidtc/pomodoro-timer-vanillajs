@@ -1,5 +1,5 @@
 # pomodoro-timer-vanillajs
-A simple pomodoro timer written in Vanilla JavaScript.
+A simple (non css) pomodoro timer written in Vanilla JavaScript.
 
 ### What is Pomodoro Technique?
 The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s.
